@@ -1,0 +1,105 @@
+# Preferred name (Characters only)
+name: "Snehal Galande"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_SnehalGalande
+
+# Introduce yourself (80-120 words)
+# Suggestions: you should 
+# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
+# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
+# 3) mention what kind of role you are looking for
+# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
+summary: I have completed Masters Degree in Computer Applications and I have 3 yrs of experience in data engineering and analysis. I have worked as Business Intelligence Analyst with a passion for turning raw data into actionable and meaningful insights. I have Hands-on experience of building data integration pipelines using ETL process. I have good experience with data analysis, visualization, and reporting to empower organizations in making informed decisions.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+# DO NOT mention skills that you don't want to work on in the future (e.g. MS office)
+skills:
+  # At least 5 skills
+  proficient:
+    - Microsoft Power BI Desktop
+    - Data query language/SQL
+    - DAX
+    - Spark using Python
+    - Azure Databricks
+    - GIT
+    - Linux
+  competent:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  familiar:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
+    # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data analytics
+    description: Implemented Linux Cluster Monitoring Agent tool that manages a CentOS7 cluster comprising 10 nodes interconnected via a switch. The tool records hardware specifications and monitors real-time resource usage, like CPU and memory, across nodes for generating future resource planning reports. Utilizing Bash, it automates tasks using crontab scheduler which runs the scripts on node computers every minute and gets the usage data. PostgreSQL (psql) handles database management and querying, Git tracks source code changes for version control, and Docker ensures efficient containerization. 
+
+# List of personal or academic projects
+# Feel free to add more projects
+# Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
+highlighted_projects:
+    #project name
+  - name: "Web app for resturant"
+    #URL is optional
+    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+  - name: "Machine Learning"
+    git_url:
+    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.  
+
+#List of professional experience
+# Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2024-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed multiple projects such Cluster Monitor which was developed on Linux platform that records hardware specifications and monitors real-time resource usage, like CPU and memory, across nodes for generating future resource planning reports. This project also employed SQL for database management, GIT for version control, and followed SDLC methodologies. Improved and strengthened my soft skills to to become more confident, capable, and better at leading."
+  - title: "Leapfrog Online Inc"
+    company: "Nitor Infotech Pvt. Ltd."
+    duration: "2014-2017"
+    description: "Client is a digital marketing firm, developing programs for different firms. The system simplifies day to day operations of an ETL which enables to load the data in Data warehouse. Developed packages for loading data involving sources such as SQL database, Excel and flat files, Search engine APIs like Google/MSN, Jason data etc as well as enhanced existing packages with new requirements or defect fixing. Deployed code to different environments using SSIS DB catlog from SSMS. Performed SQL development tasks which included creating stored procedures, utilizing local/global temporary tables, ranking functions, indexes, and joins. Created and scheduled SQL Agent jobs in SSMS. Source code version control was managed using TFS. Developed Visual reports and dashboards in Power BI, with a focus on data modeling and maintaining relationship. Implemented filters, data slicing, and created DAX queries to extract meaningful insights from the data. This enhanced data visualization and analysis, enabling informed decision-making within the organization."
+  - title: "Healthcare firm"
+    company: "Nitor Infotech Pvt. Ltd."
+    duration: "2014-2015"
+    description: "Created TALEND mappings using various processing and orchestration components, features such as context variables, connectors for Database and flat files, and File components, Joblets, reusable components like routines, context variable and globalMap variables. Monitored and supported the Talend jobs scheduled through Talend Admin Center (TAC). For Tableau 9.1, developed various dashboards using different sources, used context filters, sets while dealing with huge volume of data. Generated Dashboards by joining tables and used dual axis for comparison, filters, quick filters, sets, parameters and calculated fields."
+  - title: "RidePoolr"
+    company: "Nitor Infotech Pvt. Ltd."
+    duration: "2013-2014"
+    description: "RidePoolr is a website and application for ride-sharing/car-pooling targeted for US market. RidePoolr allows you to match up with like-minded individuals to share a ride together to an event, like Burning Man, etc. thereby providing the user to smoothly share a vehicle, and thus reducing emissions due to travel. The user can create, view, share and accept requests for rides from other individuals. It provides a deep integration with commonly used social networking sites and Google Maps."
+
+#List of edcuation
+education: 
+  - school_name: "University of Pune, India"
+    duration: "2008-2011"
+    degree: "Master of Computer Application"
+    department: "Computer Application"
+    # optional
+    awards_achievements:
+      - "GPA: 3.6/4.0" 
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "1Z0-047 Oracle Database SQL Expert(2012)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "I shuttlecock around on the badminton court, and also enjoy cycling."
+      - "Loves to go on Sandy vacations"

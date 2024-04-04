@@ -29,6 +29,7 @@ The monitoring agent program uses `Bash` scripts. This program will be installed
 Therefore, the program can be installed on each node and collect data automatically.
 The monitoring script collects data point every minute automatically, using `cron`, by scheduling the script run every minute so that we can collect one data point per minute. `Cron` is a time-based job scheduler in Linux operating systems. The script will persist data in the database table.
 ## Architecture
+![Linux Monitoring](./assets/Linux_monitoring.png)
 
 ## Scripts
 - `psql_docker.sh` provisions `psql` instance using `Docker` and to start/stop the psql container.

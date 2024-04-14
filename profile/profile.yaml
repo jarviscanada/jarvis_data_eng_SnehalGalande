@@ -48,17 +48,13 @@ jarvis_projects:
     git_url: "/sql"
     # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
     # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data analytics
-    description: Implemented RDBMS and SQL learning on CentOS7 VM. Installed Postgresql instance using Docker image. Incorporated CRUD operations, basic data management procedures. Gained practical experience on topics which included introduction to databases, relational database fundamentals, and SQL basics consisting of DDL, DML, and DCL. 
-    Explored entity-relationship modeling, normalization techniques, and schema design. Additionally, learned about indexing strategies for optimal query performance and various data manipulation techniques. 
+    description: Implemented RDBMS and SQL learning on CentOS7 VM. Installed Postgresql instance using Docker image. Incorporated CRUD operations, basic data management procedures. Gained practical experience on topics which included introduction to databases, relational database fundamentals, and SQL basics consisting of DDL, DML, and DCL. Explored entity-relationship modeling, normalization techniques schema design. Additionally, learned about indexing strategies for optimal query performance and various data manipulation techniques. 
 
 # List of personal or academic projects
 # Feel free to add more projects
 # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"    
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
   - name: "Machine Learning"
     description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.  
 

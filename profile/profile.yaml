@@ -35,7 +35,7 @@ skills:
     - Tableau 9.1
     - SSIS
     - Talend
-    - LogiAnalytics
+    - Informatica PowerCenter
 
 # List of Jarvis projects
 jarvis_projects:
@@ -49,6 +49,11 @@ jarvis_projects:
     # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
     # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data analytics
     description: Implemented RDBMS and SQL learning on CentOS7 VM. Installed Postgresql instance using Docker image. Incorporated CRUD operations, basic data management procedures. Gained practical experience on topics which included introduction to databases, relational database fundamentals, and SQL basics consisting of DDL, DML, and DCL. Explored entity-relationship modeling, normalization techniques schema design. Additionally, learned about indexing strategies for optimal query performance and various data manipulation techniques. 
+  - name: "JAVA Grep Application"
+    git_url: "/core_java"
+    # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
+    # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data analytics
+    description: Developed Java Grep application which is a text-searching tool mirroring the functionality of the Linux grep command. It allows users to specify a regular expression pattern and recursively search through directories for files containing lines that match the pattern. The application provides functionalities to read files, match patterns, and output the matched lines to a specified destination. The app showcases power of core Java functionalities, libraries, lambda expressions, IDE (IntelliJ) integration, and Docker support for containerization.
 
 # List of personal or academic projects
 # Feel free to add more projects

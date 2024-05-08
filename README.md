@@ -8,7 +8,7 @@ I have completed Master’s Degree in Computer Applications and I have 3 yrs of 
 
 **Competent:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Familiar:** Power BI Desktop, Tableau 9.1, SSIS, Talend, LogiAnalytics
+**Familiar:** Power BI Desktop, Tableau 9.1, SSIS, Talend, Informatica PowerCenter
 
 ## Jarvis Projects
 
@@ -18,6 +18,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_SnehalGala
 **Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SnehalGalande/tree/master/linux_sql)]: Implemented Linux Cluster Monitoring Agent tool that manages a CentOS7 cluster comprising 10 nodes interconnected via a switch. The tool records hardware specifications and monitors real-time resource usage, like CPU and memory, across nodes for generating future resource planning reports. Utilizing Bash, it automates tasks using crontab scheduler which runs the scripts on node computers every minute and gets the usage data. PostgreSQL (psql) handles database management and querying, Git tracks source code changes for version control, and Docker ensures efficient containerization.
 
 **RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SnehalGalande/tree/master/sql)]: Implemented RDBMS and SQL learning on CentOS7 VM. Installed Postgresql instance using Docker image. Incorporated CRUD operations, basic data management procedures. Gained practical experience on topics which included introduction to databases, relational database fundamentals, and SQL basics consisting of DDL, DML, and DCL. Explored entity-relationship modeling, normalization techniques schema design. Additionally, learned about indexing strategies for optimal query performance and various data manipulation techniques.
+
+**JAVA Grep Application** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_SnehalGalande/tree/master/core_java)]: Developed Java Grep application which is a text-searching tool mirroring the functionality of the Linux grep command. It allows users to specify a regular expression pattern and recursively search through directories for files containing lines that match the pattern. The application provides functionalities to read files, match patterns, and output the matched lines to a specified destination. The app showcases power of core Java functionalities, libraries, lambda expressions, IDE (IntelliJ) integration, and Docker support for containerization.
 
 
 ## Highlighted Projects

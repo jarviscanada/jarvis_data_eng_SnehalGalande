@@ -27,6 +27,11 @@
       "description": "Implemented RDBMS and SQL learning on CentOS7 VM. Installed Postgresql instance using Docker image. Incorporated CRUD operations, basic data management procedures. Gained practical experience on topics which included introduction to databases, relational database fundamentals, and SQL basics consisting of DDL, DML, and DCL. Explored entity-relationship modeling, normalization techniques schema design. Additionally, learned about indexing strategies for optimal query performance and various data manipulation techniques.",
       "git_url": "/sql",
       "name": "RDBMS and SQL"
+    },
+    {
+      "description": "Developed Java Grep application which is a text-searching tool mirroring the functionality of the Linux grep command. It allows users to specify a regular expression pattern and recursively search through directories for files containing lines that match the pattern. The application provides functionalities to read files, match patterns, and output the matched lines to a specified destination. The app showcases power of core Java functionalities, libraries, lambda expressions, IDE (IntelliJ) integration, and Docker support for containerization.",
+      "git_url": "/core_java",
+      "name": "JAVA Grep Application"
     }
   ],
   "name": "Snehal Galande",
@@ -84,7 +89,7 @@
       "Tableau 9.1",
       "SSIS",
       "Talend",
-      "LogiAnalytics"
+      "Informatica PowerCenter"
     ],
     "proficient": [
       "Microsoft Power BI Desktop",

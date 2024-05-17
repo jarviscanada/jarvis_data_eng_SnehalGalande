@@ -1,4 +1,4 @@
-package core_java.grep.src.main.java.ca.jrvs.apps.practice;
+package ca.jrvs.apps.practice;
 
 import java.util.Arrays;
 import java.util.List;
@@ -111,7 +111,7 @@ public class LambdaStreamExcImp implements LambdaStreamExc{
         int start = 5;
         int end = 9;
         Stream<Integer> intRangeStream = lambdaStreamExcImp.createIntStream(start, end).boxed();
-        System.out.println(intRangeStream.toList());
+        System.out.println(intRangeStream.collect(Collectors.toList()));
 
         /*
          *   Create squareRoot

@@ -1,4 +1,4 @@
-package core_java.grep.src.main.java.ca.jrvs.apps.grep;
+package ca.jrvs.apps.grep;
 
 import java.io.*;
 import java.util.ArrayList;

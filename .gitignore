@@ -1,4 +1,9 @@
-.idea/misc.xml
-.idea/uiDesigner.xml
-.idea/vcs.xml
-.idea/
+*/log/*
+.idea
+.idea/*
+core_java/grep/dependency-reduced-pom.xml
+core_java/grep/grep.iml
+core_java/grep/log/
+core_java/grep/out/
+core_java/grep/target/
+out/

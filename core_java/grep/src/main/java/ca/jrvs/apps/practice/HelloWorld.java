@@ -1,4 +1,4 @@
-package core_java.grep.src.main.java.ca.jrvs.apps.practice;
+package ca.jrvs.apps.practice;
 
 class HelloWorld {
 

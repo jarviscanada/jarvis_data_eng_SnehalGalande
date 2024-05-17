@@ -1,4 +1,4 @@
-package core_java.grep.src.main.java.ca.jrvs.apps.grep;
+package ca.jrvs.apps.grep;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
